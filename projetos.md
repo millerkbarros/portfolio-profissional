@@ -1,80 +1,183 @@
 # Projetos profissionais
 
-Esta página apresenta uma visão executiva de iniciativas relacionadas à gestão de problemas, entrega de soluções, integração de sistemas e melhoria operacional. Os detalhes são resumidos para preservar informações internas.
+Este portfólio reúne experiências em análise funcional, gestão de problemas de TI, liderança de projetos, Scrum, integração de sistemas, automação operacional e inovação. O foco está na resolução de problemas, na organização das entregas e na conexão entre necessidades de negócio e soluções tecnológicas.
 
-## 1. Gestão de Problemas de TI, sustentação e delivery
+## 1. Simulador de Prazos de Projetos — PERT + Monte Carlo
 
-**Foco:** investigar recorrências, entender impactos para a operação e acompanhar a solução até a validação.
+**Atuação:** concepção e desenvolvimento de ferramenta autoral | Outubro de 2026–atual.
 
-- Análise de chamados e evidências para distinguir sintomas de causas prováveis.
-- Articulação com áreas de negócio, equipes técnicas e fornecedores.
-- Acompanhamento de correções, testes, homologação e prevenção de recorrência.
-- Organização de prioridades, dependências e comunicação sobre andamento.
+Desenvolvi uma aplicação web para analisar a incerteza dos prazos de projetos por meio de estimativas otimista, mais provável e pessimista por etapa.
 
-**Competências demonstradas:** raciocínio analítico, visão operacional, comunicação entre áreas e foco em solução sustentável.
+- Simulação de cenários utilizando distribuições Beta-PERT e Triangular.
+- Análise de percentis P50, P80 e P90 e da probabilidade de conclusão dentro do prazo informado.
+- Estimativa do prazo restante a partir de um marco selecionado, considerando as etapas pendentes.
+- Projeção de datas considerando dias úteis e feriados nacionais.
+- Exportação de resultados para apoiar a análise e a comunicação dos riscos.
 
-## 2. Squad de Serviços de Operação
+**Objetivo:** apoiar decisões sobre prazos com cenários probabilísticos, em vez de depender exclusivamente de uma estimativa pontual.
 
-**Atuação:** Scrum Master / liderança de delivery, apoiando a organização do trabalho de uma equipe multidisciplinar.
+**Links:** [Abrir simulador](https://millerkbarros.github.io/simulador-pert-monte-carlo/) · [Código-fonte](https://github.com/millerkbarros/simulador-pert-monte-carlo)
 
-- Facilitação do fluxo de trabalho e acompanhamento de itens e dependências.
-- Coordenação de iniciativas estruturadas em épicos.
-- Acompanhamento de integrações, APIs e funcionalidades de aplicações utilizadas em campo.
-- Alinhamento entre operação, negócio e tecnologia, incluindo testes e homologação.
+## 2. Gestão de Problemas de TI e Sustentação — Operações
 
-**Contexto informado:** equipe de 11 profissionais e trabalho organizado em três épicos.
+**Atuação:** liderança de gestão de problemas e acompanhamento da sustentação | Março de 2026–atual.
 
-## 3. Projeto de fluxo de Ordens de Serviço
+Atuação na investigação de problemas recorrentes que impactam a operação, mantendo também o acompanhamento de chamados internos.
 
-**Atuação:** liderança de projeto.
+- Análise de chamados, evidências e relatos para identificar causas que precisam ser investigadas.
+- Articulação com usuários, áreas técnicas e fornecedores.
+- Priorização de problemas conforme impacto operacional.
+- Acompanhamento de correções, testes, homologação e implantação em produção.
+- Organização de informações, dependências e atualizações para a gestão.
+- Continuidade do atendimento à operação e acompanhamento dos níveis de serviço.
 
-Iniciativa voltada à evolução do fluxo de cobrança de ordens de serviço, com transição do processamento em lote para uma abordagem por serviço, envolvendo integração entre sistemas.
+**Foco:** investigar causas, reduzir recorrências e acompanhar soluções até sua validação, diferenciando o sintoma relatado do problema efetivamente identificado.
 
-- Organização do escopo e das etapas de entrega.
-- Coordenação do trabalho de uma equipe de quatro pessoas.
-- Acompanhamento de integração, validação e alinhamento entre envolvidos.
+## 3. Consultoria de TI em Projetos de Inovação
 
-**Período informado:** novembro de 2024 a junho de 2025.
+**Atuação:** acompanhamento de iniciativas de inovação | Março de 2026–atual.
 
-## 4. Disponibilização de sete APIs para Business Intelligence
+Participação em três iniciativas que conectam tecnologia e necessidades operacionais:
 
-**Atuação:** liderança de projeto.
+- **PONFAC:** aplicativo com apoio de inteligência artificial para medição de valas.
+- **GeoSaker:** solução com câmeras para verificação de lodo em caminhões.
+- **Balança:** iniciativa de pesagem de caçambas de resíduos de obras, produtos químicos e lodo.
 
-Iniciativa para disponibilizar dados por meio de sete APIs, ampliando a capacidade de consumo de informações pela área de BI.
+Atuação no acompanhamento das iniciativas, na contribuição para decisões e no alinhamento dos caminhos de TI com as áreas de negócio e os fornecedores.
 
-- Organização do trabalho e acompanhamento da entrega.
+## 4. Parcelamento na Religação Automática
+
+**Atuação:** liderança de projeto com escopo definido | Outubro de 2026.
+
+Iniciativa para permitir a configuração da quantidade de parcelas e sua utilização na criação automática de Ordens de Serviço de religação.
+
+- Alinhamento das regras de negócio com dois usuários-chave.
+- Elaboração e alinhamento da especificação funcional.
+- Acompanhamento do desenvolvimento com a liderança técnica.
+- Coordenação dos testes de aceitação do usuário e planejamento da implantação.
+
+**Equipe:** dois usuários-chave, uma liderança técnica, um desenvolvedor e o líder do projeto.
+
+## 5. Integração Engeman × Geocall — Estudo de Viabilidade
+
+**Atuação:** apoio à sustentação e participação no desenho inicial da integração | Setembro de 2026.
+
+Durante uma cobertura de férias de 20 dias, participei das discussões iniciais sobre a integração entre os sistemas Engeman e Geocall.
+
+O fluxo proposto contemplava a criação da Ordem de Serviço no Engeman, o envio ao Geocall Server, a execução pelo Geocall Mobile e o retorno dos dados para consolidação no Engeman.
+
+- Participação em reuniões técnicas.
+- Desenho inicial da arquitetura de integração.
+- Encaminhamento da proposta técnica ao fornecedor Engeman.
+- Contribuição para a elaboração de documentação de API do Engeman Mobile.
+- Encaminhamento da documentação à equipe técnica do Geocall.
+
+**Resultado da atuação:** avanço no desenho técnico e na documentação necessária para apoiar a avaliação da integração. A conclusão da integração em produção não está confirmada nesta descrição.
+
+## 6. Squad de Serviços de Operação — 2025
+
+**Atuação:** Scrum Master de squad multidisciplinar com 11 profissionais | Fevereiro de 2025–março de 2026.
+
+Atuação na evolução do Geocall para apoiar a gestão e a execução de Ordens de Serviço pelas equipes de campo, conectando operação, negócio, tecnologia e fornecedor.
+
+### Programação automatizada de Ordens de Serviço
+
+- Automação de rotinas de programação e reprogramação das equipes de campo.
+- Melhorias na organização e consulta das Ordens de Serviço.
+- Ajustes em rotinas de programação considerando equipes, localização e competências.
+
+**Resultado informado:** redução de 90% das ações manuais necessárias para programar Ordens de Serviço para as equipes de campo.
+
+### Gestão de materiais
+
+Funcionalidades implantadas em produção para aprimorar o controle de materiais utilizados na operação:
+
+- Controle de estoque por veículo.
+- Baixa automática de materiais por Ordem de Serviço.
+- Reposição conforme estoque mínimo.
+- Sincronização e rastreabilidade dos ajustes.
+- Padronização de kits para 33 tipos de serviço em nove concessionárias.
+
+### Medição de serviços
+
+Funcionalidades implantadas em produção para fortalecer os controles da medição, incluindo validações operacionais, aprovação por inspeção de qualidade, alertas de retrabalho, boletim de medição, memória de cálculo, relatório fotográfico e integração com o Protheus.
+
+### Atuação como Scrum Master
+
+- Facilitação de cerimônias e refinamentos.
+- Acompanhamento de impedimentos, prioridades e dependências.
+- Alinhamento entre operação, negócio e fornecedor.
+- Acompanhamento de testes, homologação e implantação por concessionária.
+
+**Nota sobre os indicadores:** a redução de 90% das ações manuais na programação foi informada como resultado do projeto. As metas de redução do esforço administrativo da medição e de economia no consumo de materiais não são apresentadas como resultados medidos, pois não há indicadores formais de pós-implantação disponíveis nesta descrição.
+
+## 7. Projeto Fluxo de Ordens de Serviço
+
+**Atuação:** liderança de projeto | Novembro de 2024–junho de 2025.
+
+Projeto voltado à reestruturação de um processo de faturamento de serviços, substituindo um modelo de processamento em bloco por uma abordagem com discriminação por item de serviço.
+
+- Organização do escopo e acompanhamento das etapas.
+- Coordenação de equipe com quatro pessoas.
+- Articulação entre áreas envolvidas e integrações de sistemas.
+- Acompanhamento da validação e da entrega.
+
+**Resultado informado:** conclusão dentro do prazo e do escopo estabelecidos.
+
+**Objetivo de negócio:** ampliar a transparência do faturamento, melhorar a confiabilidade do processo e reduzir riscos de perda de receita. Não foram informados indicadores quantitativos pós-implantação desses benefícios.
+
+## 8. Projeto de Construção de Sete APIs para Business Intelligence
+
+**Atuação:** liderança de projeto | Fevereiro–dezembro de 2024.
+
+Coordenação da construção de sete APIs para disponibilizar dados à área de Business Intelligence, apoiando análises e decisões de gestão.
+
 - Alinhamento de requisitos e dependências técnicas.
-- Coordenação de equipe e comunicação sobre evolução do projeto.
+- Organização das atividades e acompanhamento das entregas.
+- Coordenação de equipe com seis pessoas.
+- Comunicação entre os envolvidos durante a execução.
 
-**Contexto informado:** equipe de seis pessoas; fevereiro a dezembro de 2024.
+**Resultado informado:** entrega das sete APIs dentro do prazo e com a qualidade esperada.
 
-## 5. Piloto TakaDu — monitoramento operacional
+## 9. Squad de Serviços de Operação — 2024
 
-**Atuação:** liderança de projeto, com abordagem tradicional (cascata).
+**Atuação:** Scrum Master de squad multidisciplinar com nove profissionais | Fevereiro–dezembro de 2024.
 
-Piloto relacionado ao monitoramento de indicadores operacionais em saneamento, incluindo fluxo e pressão da água e outros dados operacionais.
+Atuação na evolução do Geocall para melhorar a gestão das Ordens de Serviço e a integração entre equipes de campo e retaguarda.
 
-- Organização e acompanhamento das etapas do piloto.
-- Coordenação das atividades e comunicação com os envolvidos.
-- Atenção ao alinhamento entre necessidade operacional e solução proposta.
+### Principais entregas
 
-**Contexto informado:** equipe de cinco pessoas; junho de 2023 a junho de 2024.
+- Automatização do preenchimento de dados de vala e reaproveitamento de informações entre Ordens de Serviço associadas.
+- Revisão do fluxo de solicitação de apoio durante a execução, com alertas para a programação e novos status.
+- Criação automática de Ordens de Serviço associadas em situações previstas no fluxo.
+- Melhorias na apropriação e consulta de dados das OS.
+- Evolução dos processos de programação, execução e apropriação de serviços.
 
-## 6. Simulador de Prazos de Projetos — PERT + Monte Carlo
+**Resultado informado:** entrega de seis épicos, ampliando o escopo inicial de dois, dentro do orçamento previsto.
 
-**Atuação:** concepção e desenvolvimento de ferramenta autoral.
+### Indicador de esforço estimado
 
-Aplicação web que utiliza estimativas otimista, mais provável e pessimista por etapa para simular cenários de prazo e apoiar a conversa sobre incerteza e risco.
+A estimativa mensal de esforço das atividades impactadas passou de **764 para 132 horas**, uma diferença de 632 horas por mês, equivalente a aproximadamente **82,7% de redução estimada**.
 
-- Distribuições Beta-PERT e Triangular.
-- Simulação Monte Carlo com diferentes quantidades de iterações.
-- Visualização de percentis de prazo e estimativa restante a partir de um marco selecionado.
-- Exportação dos resultados para apoiar análise e comunicação.
+Esse indicador representa uma estimativa de esforço antes e depois das automações, e não uma medição direta das horas efetivamente trabalhadas após a implantação.
 
-**Links:** [Abrir ferramenta](https://millerkbarros.github.io/simulador-pert-monte-carlo/) · [Código-fonte](https://github.com/millerkbarros/simulador-pert-monte-carlo)
+Também foi informado um incidente por épico após a entrada em produção. A janela de acompanhamento e a definição utilizada para classificar os incidentes não estão detalhadas nesta descrição.
 
----
+## 10. Piloto TakaDu — Monitoramento Operacional
 
-## Minha abordagem de entrega
+**Atuação:** liderança de projeto com abordagem tradicional (cascata) | Junho de 2023–junho de 2024.
 
-Em projetos e problemas operacionais, procuro manter cinco pontos visíveis: **objetivo, escopo, responsáveis, riscos/dependências e critério de validação**. Isso ajuda a alinhar expectativas sem confundir atividade executada com resultado efetivamente confirmado.
+Liderança de piloto voltado ao monitoramento de indicadores operacionais de saneamento, incluindo fluxo, pressão da água e outros dados utilizados no acompanhamento da operação.
+
+- Organização e acompanhamento das etapas do projeto.
+- Coordenação de equipe com cinco pessoas.
+- Alinhamento entre necessidades operacionais e solução proposta.
+- Acompanhamento das atividades para atender ao escopo estabelecido.
+
+**Objetivo:** apoiar o monitoramento operacional e a tomada de decisão por meio de informações estruturadas.
+
+## Abordagem profissional
+
+Minha atuação combina análise funcional, gestão de problemas, liderança de projetos e facilitação ágil. Procuro manter claros o objetivo, o escopo, os responsáveis, os riscos, as dependências e os critérios de validação.
+
+Na apresentação dos projetos, diferencio entregas realizadas, resultados informados, metas e estimativas, sem atribuir métricas que não tenham sido confirmadas.
