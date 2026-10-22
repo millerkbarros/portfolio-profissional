@@ -14,7 +14,7 @@ Este portfólio reúne projetos, ferramentas e frameworks que demonstram minha f
 | Área | O que você encontrará |
 |---|---|
 | [Projetos profissionais](./projetos.md) | Gestão de problemas, delivery, Scrum, integrações, APIs e iniciativas operacionais |
-| [Ferramentas e frameworks](./frameworks.md) | Simulador PERT + Monte Carlo, PALAVRA e VITREX |
+| [Ferramentas e frameworks](./frameworks.md) | Simulador PERT + Monte Carlo, PALAVRA, VITREX E OUTROS |
 | [Competências e práticas](./competencias.md) | Análise funcional, gestão de projetos, melhoria contínua e colaboração entre negócio e tecnologia |
 | [Artigos e publicações](./artigos.md) | Temas de gestão, processos, qualidade e liderança em TI |
 
