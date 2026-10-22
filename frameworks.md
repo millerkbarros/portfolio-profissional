@@ -59,6 +59,6 @@ Além das ferramentas autorais, os temas explorados incluem:
 - **Six Sigma:** usar análise estruturada para compreender variação e defeitos.
 - **BPM:** compreender, mapear e melhorar processos de ponta a ponta.
 - **Comunicação não violenta:** apoiar conversas objetivas, respeitosas e orientadas à solução.
-- **📊 Diagrama de Pareto::** priorizar melhor para alcançar resultados mais relevantes.
+- **Diagrama de Pareto::** priorizar melhor para alcançar resultados mais relevantes.
 
 Essas práticas são lentes de análise que podem ser combinadas conforme o contexto; a escolha depende do problema, das evidências e do objetivo.
