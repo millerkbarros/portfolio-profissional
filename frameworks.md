@@ -46,6 +46,8 @@ VITREX é uma estrutura autoral em desenvolvimento para ajudar a iniciar e condu
 - Traduzir o entendimento em escopo, planejamento e critérios de validação.
 
 > A estrutura deve ser apresentada como framework autoral em evolução; não como metodologia universal ou padrão formal certificado.
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/4b36d181-7ca8-48bf-bcb9-557afccd0b4a" />
+
 
 ## 4. Práticas de melhoria contínua
 
