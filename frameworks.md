@@ -32,6 +32,8 @@ PALAVRA é uma estrutura de investigação organizada em sete movimentos. A prop
 - **A — Acompanhar:** validar o resultado e observar se o problema voltou a ocorrer.
 
 **Princípio central:** palavras recorrentes em chamados — como “bug”, “aguardando”, “dependência” ou “retrabalho” — são pistas para investigação, não provas isoladas de uma causa.
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/4dfbd102-1761-4f1a-9916-50328a4c69db" />
+
 
 ## 3. VITREX — estrutura de gestão de projetos
 
