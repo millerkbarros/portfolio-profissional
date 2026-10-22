@@ -16,6 +16,8 @@ A ferramenta permite informar estimativas otimista, mais provável e pessimista 
 - Exportação de resultados.
 
 **Acessos:** [Aplicação publicada](https://millerkbarros.github.io/simulador-pert-monte-carlo/) · [Repositório do código](https://github.com/millerkbarros/simulador-pert-monte-carlo)
+<img width="1308" height="819" alt="image" src="https://github.com/user-attachments/assets/0ffb9f05-b42e-49ef-9903-be41bed7836d" />
+
 
 ## 2. PALAVRA — abordagem para investigação de problemas recorrentes
 
