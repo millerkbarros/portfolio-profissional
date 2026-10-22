@@ -1,4 +1,6 @@
 # Miller Cardoso Barros
+<img width="200" height="200" alt="Perfil certo" src="https://github.com/user-attachments/assets/7b3dabfc-9775-48dc-ad3c-2aca87f9851c" />
+
 ### Analista Funcional Sênior | Gestão de Problemas de TI | Projetos, Processos e Delivery
 
 Transformo necessidades de negócio em soluções de TI com foco em **análise funcional, investigação de causa raiz, melhoria contínua e entrega de valor**. Minha atuação conecta operação, áreas de negócio, equipes técnicas e fornecedores para dar clareza aos problemas, organizar prioridades e acompanhar soluções até a validação.
