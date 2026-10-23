@@ -55,6 +55,8 @@ Novo parâmetro para a ordem de serviço de religação automática já nascer c
 
 **Resultado:** 15 de 30 dias úteis usados, desenvolvimento 9 dias úteis antes do previsto, nenhum bug na homologação e deploy agendado 15 dias úteis antes da entrega prevista.
 
+<img src="./bpmn-parcelamento.png" alt="BPMN AS IS e TO BE, versão anonimizada" width="900" />
+
 <img src="./cronograma-anonimizado.png" alt="Cronograma planejado x realizado, versão anonimizada" width="900" />
 
 <sub>Versão anonimizada: nomes, empresa, fornecedor e datas omitidos.</sub>
