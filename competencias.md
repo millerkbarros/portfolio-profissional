@@ -40,4 +40,4 @@ Jira, Confluence, Azure DevOps, MS Project, Miro, Mural, Figma, Redmine, Trello,
 - MBA em Gestão da Qualidade de Software
 
 ## Idiomas
-Português nativo · Inglês básico · Espanhol básico
+Português nativo · Inglês intermediário · Espanhol intermediário
