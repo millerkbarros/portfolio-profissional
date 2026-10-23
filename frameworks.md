@@ -48,7 +48,36 @@ Em um mês com 140 chamados, a fila parecia ter dezenas de assuntos. Agrupada po
 
 <sub>Cenário fictício, criado só para ilustrar o método.</sub>
 
-## 3. 5 Porquês — análise de causa raiz
+## 3. PALAVRA — a palavra que mais se repete aponta o problema
+
+**Framework autoral.** Nasceu da observação de que algumas palavras são repetidas o tempo todo em qualquer operação, projeto ou produto. A pergunta que deu origem a ele: *e se a palavra que mais falamos durante o trabalho for um indicador do nosso maior problema?*
+
+**P**erceber · **A**notar · **L**ocalizar · **A**profundar · **V**erificar · **R**esolver · **A**companhar
+
+**Como aplico**
+1. Identifico a palavra ou expressão que mais aparece no dia.
+2. Trato essa palavra como um sintoma, não como a causa.
+3. Aplico 5W e os 5 Porquês.
+4. Encontro a causa raiz.
+5. Defino ações corretivas e acompanho os resultados.
+
+**A palavra raramente é a causa real**
+
+| Quando a palavra é… | a causa pode estar em… |
+|---|---|
+| “Bug” | requisito mal definido, teste insuficiente ou regra de negócio mal compreendida |
+| “Aguardando” | falha de governança, de priorização ou de tomada de decisão |
+| “Chamado” | funcionalidade confusa, integração instável, falha recorrente ou falta de treinamento |
+| “Retrabalho” | critério de aceite pouco claro ou validação tardia com o usuário |
+| “Dependência” | fila de outra área ou fornecedor sem prazo combinado |
+
+**Princípio central:** o chamado não é o problema. É apenas a evidência de que existe um problema. As palavras funcionam como indicadores operacionais não oficiais: revelam dores que muitas vezes não aparecem em dashboards, relatórios ou apresentações executivas.
+
+**Pergunta de fim de dia:** qual foi a palavra que mais apareceu hoje nas minhas conversas?
+
+[Post original no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7469380881787551744/)
+
+## 4. 5 Porquês — análise de causa raiz
 
 **O que é:** técnica de investigação em que se pergunta "por quê?" a cada resposta, a partir do sintoma, até chegar à causa que, se corrigida, impede o problema de voltar.
 
@@ -66,7 +95,7 @@ O sintoma estava no relatório, mas a causa raiz estava no processo de mudança.
 
 <sub>Cenário fictício, criado só para ilustrar o método.</sub>
 
-## 4. Simulador de Prazos de Projetos — PERT + Monte Carlo
+## 5. Simulador de Prazos de Projetos — PERT + Monte Carlo
 
 **Objetivo:** tornar explícita a incerteza das estimativas de prazo e apoiar conversas mais realistas sobre previsão de entrega.
 
@@ -82,7 +111,7 @@ A ferramenta permite informar estimativas otimista, mais provável e pessimista 
 **Acessos:** [Aplicação publicada](https://millerkbarros.github.io/simulador-pert-monte-carlo/) · [Repositório do código](https://github.com/millerkbarros/simulador-pert-monte-carlo)
 <img width="1308" height="819" alt="image" src="https://github.com/user-attachments/assets/0ffb9f05-b42e-49ef-9903-be41bed7836d" />
 
-## 5. Especificação funcional e BDD
+## 6. Especificação funcional e BDD
 
 **O que é:** a especificação funcional traduz a necessidade do negócio em regras claras. O BDD (Behavior-Driven Development) escreve cada regra como um cenário testável: **Dado**, **Quando**, **Então**.
 
@@ -99,7 +128,7 @@ A ferramenta permite informar estimativas otimista, mais provável e pessimista 
 
 <sub>Cenário fictício, criado só para ilustrar o método.</sub>
 
-## 6. Ágil dentro de uma empresa ITIL
+## 7. Ágil dentro de uma empresa ITIL
 
 Em empresa tradicional, o trabalho é fazer o ágil caber no processo, sem brigar com ele:
 
@@ -109,7 +138,7 @@ Em empresa tradicional, o trabalho é fazer o ágil caber no processo, sem briga
 - **Backlog único:** correções de problemas e novidades na mesma priorização.
 - **Report da casa:** status no formato que a gestão já conhece.
 
-## 7. Práticas de melhoria contínua
+## 8. Práticas de melhoria contínua
 
 Práticas que combino conforme o problema:
 
