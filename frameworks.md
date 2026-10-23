@@ -82,22 +82,7 @@ A ferramenta permite informar estimativas otimista, mais provável e pessimista 
 **Acessos:** [Aplicação publicada](https://millerkbarros.github.io/simulador-pert-monte-carlo/) · [Repositório do código](https://github.com/millerkbarros/simulador-pert-monte-carlo)
 <img width="1308" height="819" alt="image" src="https://github.com/user-attachments/assets/0ffb9f05-b42e-49ef-9903-be41bed7836d" />
 
-## 5. PALAVRA — abordagem para investigação de problemas recorrentes
-
-PALAVRA é uma estrutura de investigação organizada em sete movimentos. A proposta é evitar que o primeiro relato seja tratado automaticamente como causa raiz e orientar a análise até que haja evidências suficientes.
-
-- **P — Perceber:** reconhecer sinais, recorrência e impacto operacional.
-- **A — Anotar:** registrar exemplos, contexto, frequência e evidências.
-- **L — Localizar:** identificar sistemas, etapas, equipes ou condições envolvidas.
-- **A — Aprofundar:** explorar hipóteses com perguntas estruturadas, como os 5 Porquês.
-- **V — Verificar:** confrontar hipóteses com dados, testes e evidências.
-- **R — Resolver:** encaminhar ações sobre a causa confirmada ou mais bem sustentada.
-- **A — Acompanhar:** validar o resultado e observar se o problema voltou a ocorrer.
-
-**Princípio central:** palavras recorrentes em chamados — como “bug”, “aguardando”, “dependência” ou “retrabalho” — são pistas para investigação, não provas isoladas de uma causa.
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/4dfbd102-1761-4f1a-9916-50328a4c69db" />
-
-## 6. Especificação funcional e BDD
+## 5. Especificação funcional e BDD
 
 **O que é:** a especificação funcional traduz a necessidade do negócio em regras claras. O BDD (Behavior-Driven Development) escreve cada regra como um cenário testável: **Dado**, **Quando**, **Então**.
 
@@ -114,7 +99,7 @@ PALAVRA é uma estrutura de investigação organizada em sete movimentos. A prop
 
 <sub>Cenário fictício, criado só para ilustrar o método.</sub>
 
-## 7. Ágil dentro de uma empresa ITIL
+## 6. Ágil dentro de uma empresa ITIL
 
 Em empresa tradicional, o trabalho é fazer o ágil caber no processo, sem brigar com ele:
 
@@ -124,7 +109,7 @@ Em empresa tradicional, o trabalho é fazer o ágil caber no processo, sem briga
 - **Backlog único:** correções de problemas e novidades na mesma priorização.
 - **Report da casa:** status no formato que a gestão já conhece.
 
-## 8. Práticas de melhoria contínua
+## 7. Práticas de melhoria contínua
 
 Práticas que combino conforme o problema:
 
