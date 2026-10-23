@@ -6,7 +6,7 @@
 
 Mais de 18 anos em tecnologia, sendo os últimos 4 como Scrum Master, Líder de Projetos e Analista de Negócios no Grupo Águas do Brasil, em sistemas críticos de operação de campo do saneamento. Faço a ponte entre negócio, tecnologia e fornecedores, da especificação até a entrada em produção.
 
-**[Site do portfólio](https://millerkbarros.github.io/portfolio-profissional/) · [LinkedIn](https://www.linkedin.com/in/millerbarros) · [Simulador PERT + Monte Carlo](https://millerkbarros.github.io/simulador-pert-monte-carlo/) · [Currículo (PDF)](./curriculo-miller-barros.pdf)**
+**[Site do portfólio](https://millerkbarros.github.io/portfolio-profissional/) · [LinkedIn](https://www.linkedin.com/in/millerbarros) · [Simulador PERT + Monte Carlo](https://millerkbarros.github.io/simulador-pert-monte-carlo/) · [Currículo (PDF)](./curriculo-miller-barros.pdf?v=20261023)**
 
 ---
 
@@ -24,7 +24,7 @@ Mais de 18 anos em tecnologia, sendo os últimos 4 como Scrum Master, Líder de 
 | Página | Conteúdo |
 |---|---|
 | [Projetos profissionais](./projetos.md) | Squads, projetos, Gestão de Problemas, integrações e inovação |
-| [Ferramentas e frameworks](./frameworks.md) | Simulador PERT + Monte Carlo, PALAVRA, Pareto na Gestão de Problemas, VITREX e melhoria contínua |
+| [Ferramentas e frameworks](./frameworks.md) | Simulador PERT + Monte Carlo, PALAVRA, Pareto, 5 Porquês, BPMN AS IS / TO BE e melhoria contínua |
 | [Competências e formação](./competencias.md) | Agilidade, projetos, análise de negócios, Gestão de Problemas, ferramentas e formação |
 
 ## Como trabalho
