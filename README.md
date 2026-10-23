@@ -39,5 +39,6 @@ Mais de 18 anos em tecnologia, sendo os últimos 4 como Scrum Master, Líder de 
 
 - **LinkedIn:** [linkedin.com/in/millerbarros](https://www.linkedin.com/in/millerbarros)
 - **E-mail:** [millerkbarros@gmail.com](mailto:millerkbarros@gmail.com)
+- **Celular / WhatsApp:** [(22) 98123-7525](https://wa.me/5522981237525)
 
 <sub>As descrições de iniciativas corporativas foram resumidas, sem expor informações internas ou dados de clientes.</sub>
