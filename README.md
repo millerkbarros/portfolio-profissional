@@ -17,7 +17,7 @@ Mais de 18 anos em tecnologia, sendo os últimos 4 como Scrum Master, Líder de 
 | **18+ anos** | em tecnologia: implantação, qualidade de software, projetos e operação |
 | **9 épicos** | entregues em 2 squads como Scrum Master (2024–2025) |
 | **764 → 132 h/mês** | redução estimada nas atividades operacionais impactadas (squad 2024) |
-| **350 → 250 chamados** | redução com a Gestão de Problemas (2026), com queda contínua |
+| **350 → 250 chamados/mês** | redução com a Gestão de Problemas (2026), e segue caindo |
 | **CSM · SFPC · 3 MBAs** | agilidade, projetos, liderança e qualidade de software |
 
 ## Navegue pelo portfólio

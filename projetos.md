@@ -46,7 +46,7 @@ Evolução do sistema de gestão de ordens de serviço usado pelas equipes de ca
 - Status report dos problemas para a alta gestão.
 - Atendimento da fila diária de chamados dos usuários internos.
 
-**Resultado:** chamados reduzidos de 350 para 250 (cerca de 29% a menos), com queda contínua.
+**Resultado:** chamados reduzidos de 350 para 250 por mês (cerca de 29% a menos), e o volume segue caindo.
 
 ## 5. Parcelamento na Religação Automática
 **Líder de Projeto** · set/2026 – out/2026 · cascata, escopo fechado
