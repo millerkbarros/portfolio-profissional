@@ -24,13 +24,14 @@ Mais de 18 anos em tecnologia, sendo os últimos 4 como Scrum Master, Líder de 
 | Página | Conteúdo |
 |---|---|
 | [Projetos profissionais](./projetos.md) | Squads, projetos, Gestão de Problemas, integrações e inovação |
-| [Ferramentas e frameworks](./frameworks.md) | Simulador PERT + Monte Carlo, PALAVRA, VITREX e práticas de melhoria contínua |
+| [Ferramentas e frameworks](./frameworks.md) | Simulador PERT + Monte Carlo, PALAVRA, Pareto na Gestão de Problemas, VITREX e melhoria contínua |
 | [Competências e formação](./competencias.md) | Agilidade, projetos, análise de negócios, Gestão de Problemas, ferramentas e formação |
 
 ## Como trabalho
 
 - **Entendo o processo real antes da solução.** Mapeio o AS IS com quem usa o sistema.
 - **Trato relato como hipótese.** A causa vem das evidências, com 5 Porquês.
+- **Priorizo com Pareto.** Agrupo chamados por tema e ataco os poucos problemas que geram a maior parte da fila.
 - **Prazo é faixa, não promessa.** Uso P80 com base em analogia, requisitos, time e riscos.
 - **Acompanho até a ponta.** Homologação, deploy e validação com o usuário.
 
