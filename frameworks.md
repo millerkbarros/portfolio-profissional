@@ -19,11 +19,11 @@ Esta página reúne ferramentas e estruturas de pensamento aplicadas à análise
 
 **Exemplo prático**
 
-<img src="./bpmn-exemplo.png" alt="Exemplo de BPMN AS IS e TO BE do fechamento de ordem de serviço" width="900" />
+<img src="./bpmn-exemplo.png" alt="Cenário fictício de BPMN AS IS e TO BE: aprovação de solicitação de compra" width="900" />
 
-No AS IS, a ordem passa por ligação, digitação e conferência manual. No TO BE, o técnico conclui no aplicativo, o sistema valida e o supervisor trata só as exceções.
+No AS IS, a solicitação passa por planilha, e-mail, redigitação em Compras e aprovação por e-mail. No TO BE, o solicitante abre direto no sistema, o sistema valida o orçamento e o gestor aprova só o que está fora da alçada.
 
-<sub>Exemplo ilustrativo.</sub>
+<sub>Cenário fictício, criado só para ilustrar o método.</sub>
 
 ## 2. Pareto aplicado à Gestão de Problemas
 
@@ -42,11 +42,11 @@ No AS IS, a ordem passa por ligação, digitação e conferência manual. No TO 
 
 <img src="./pareto-exemplo.png" alt="Gráfico de Pareto com 140 chamados agrupados em 7 temas; os 3 primeiros somam 80%" width="900" />
 
-Em um mês com 140 chamados, a fila parecia ter dezenas de assuntos. Agrupada por tema, mostrou que **3 problemas respondiam por 112 chamados (80%)**. Em vez de atender um a um, a correção começa por esses 3 junto ao fornecedor. Os outros 4 temas seguem no atendimento normal.
+Em um mês com 140 chamados, a fila parecia ter dezenas de assuntos. Agrupada por tema, mostrou que **3 problemas respondiam por 112 chamados (80%)**. Em vez de atender um a um, a correção começa por esses 3. Os outros 4 temas seguem no atendimento normal.
 
 **Planilha modelo:** [baixar a planilha 80/20 para chamados (Excel)](./planilha-80-20-chamados.xlsx). Basta cadastrar os temas e os chamados: a tabela, as faixas de prioridade e o gráfico se montam sozinhos.
 
-<sub>Dados ilustrativos.</sub>
+<sub>Cenário fictício, criado só para ilustrar o método.</sub>
 
 ## 3. 5 Porquês — análise de causa raiz
 
@@ -60,11 +60,11 @@ Em um mês com 140 chamados, a fila parecia ter dezenas de assuntos. Agrupada po
 
 **Exemplo prático**
 
-<img src="./5-porques-exemplo.png" alt="Exemplo de 5 Porquês: ordem de serviço que some do sistema" width="900" />
+<img src="./5-porques-exemplo.png" alt="Cenário fictício de 5 Porquês: relatório de vendas com valor errado" width="900" />
 
-O sintoma estava no aplicativo, mas a causa raiz estava na homologação. Corrigir só o parâmetro resolveria o caso; incluir o teste no roteiro evita que ele volte.
+O sintoma estava no relatório, mas a causa raiz estava no processo de mudança. Ajustar só o filtro resolveria o caso; incluir a análise de impacto no checklist evita que ele volte.
 
-<sub>Exemplo ilustrativo.</sub>
+<sub>Cenário fictício, criado só para ilustrar o método.</sub>
 
 ## 4. Simulador de Prazos de Projetos — PERT + Monte Carlo
 
@@ -110,9 +110,9 @@ PALAVRA é uma estrutura de investigação organizada em sete movimentos. A prop
 
 **Exemplo prático**
 
-<img src="./especificacao-exemplo.png" alt="Exemplo de regras de negócio convertidas em critérios de aceite BDD" width="900" />
+<img src="./especificacao-exemplo.png" alt="Cenário fictício de regras de negócio convertidas em critérios de aceite BDD" width="900" />
 
-<sub>Exemplo simplificado e ilustrativo.</sub>
+<sub>Cenário fictício, criado só para ilustrar o método.</sub>
 
 ## 7. Ágil dentro de uma empresa ITIL
 
