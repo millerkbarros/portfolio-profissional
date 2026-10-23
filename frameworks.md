@@ -44,6 +44,8 @@ No AS IS, a ordem passa por ligação, digitação e conferência manual. No TO 
 
 Em um mês com 140 chamados, a fila parecia ter dezenas de assuntos. Agrupada por tema, mostrou que **3 problemas respondiam por 112 chamados (80%)**. Em vez de atender um a um, a correção começa por esses 3 junto ao fornecedor. Os outros 4 temas seguem no atendimento normal.
 
+**Planilha modelo:** [baixar a planilha 80/20 para chamados (Excel)](./planilha-80-20-chamados.xlsx). Basta cadastrar os temas e os chamados: a tabela, as faixas de prioridade e o gráfico se montam sozinhos.
+
 <sub>Dados ilustrativos.</sub>
 
 ## 3. 5 Porquês — análise de causa raiz
