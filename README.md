@@ -27,6 +27,12 @@ Mais de 18 anos em tecnologia, sendo os últimos 4 como Scrum Master, Líder de 
 | [Ferramentas e frameworks](./frameworks.md) | Simulador PERT + Monte Carlo, PALAVRA, Pareto, 5 Porquês, BPMN AS IS / TO BE, especificação funcional com BDD, ágil em empresa ITIL e melhoria contínua |
 | [Competências e formação](./competencias.md) | Agilidade, projetos, análise de negócios, Gestão de Problemas, ferramentas e formação |
 
+## Materiais para usar
+
+- [Planilha 80/20 para chamados (Excel)](./planilha-80-20-chamados.xlsx)
+- [Guia de comunicação em TI (PDF)](./guia-comunicacao-ti.pdf)
+- [Checklist de risco e impacto (PDF)](./checklist-risco-impacto.pdf)
+
 ## Como trabalho
 
 - **Entendo o processo real antes da solução.** Mapeio o AS IS com quem usa o sistema.
