@@ -95,7 +95,34 @@ PALAVRA é uma estrutura de investigação organizada em sete movimentos. A prop
 **Princípio central:** palavras recorrentes em chamados — como “bug”, “aguardando”, “dependência” ou “retrabalho” — são pistas para investigação, não provas isoladas de uma causa.
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/4dfbd102-1761-4f1a-9916-50328a4c69db" />
 
-## 6. Práticas de melhoria contínua
+## 6. Especificação funcional e BDD
+
+**O que é:** a especificação funcional traduz a necessidade do negócio em regras claras. O BDD (Behavior-Driven Development) escreve cada regra como um cenário testável: **Dado**, **Quando**, **Então**.
+
+**Como aplico**
+1. **Começo pelo problema:** o que o usuário precisa resolver, e por quê.
+2. **Numero as regras** (RN01, RN02…) para todos falarem da mesma regra.
+3. **Uso exemplos reais:** um caso com dados explica mais que três parágrafos.
+4. **Escrevo o que fica fora do escopo**, para evitar surpresa.
+5. **Transformo cada regra em critério de aceite BDD.** Se não dá para testar, não está claro.
+
+**Exemplo prático**
+
+<img src="./especificacao-exemplo.png" alt="Exemplo de regras de negócio convertidas em critérios de aceite BDD" width="900" />
+
+<sub>Exemplo simplificado e ilustrativo.</sub>
+
+## 7. Ágil dentro de uma empresa ITIL
+
+Em empresa tradicional, o trabalho é fazer o ágil caber no processo, sem brigar com ele:
+
+- **Sprint com calendário:** o planejamento já considera as janelas de deploy.
+- **Pronto de verdade:** inclui homologação e mudança aprovada.
+- **Key users nos ritos:** validação curta e frequente com quem usa.
+- **Backlog único:** correções de problemas e novidades na mesma priorização.
+- **Report da casa:** status no formato que a gestão já conhece.
+
+## 8. Práticas de melhoria contínua
 
 Práticas que combino conforme o problema:
 

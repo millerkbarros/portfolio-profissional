@@ -24,7 +24,7 @@ Mais de 18 anos em tecnologia, sendo os últimos 4 como Scrum Master, Líder de 
 | Página | Conteúdo |
 |---|---|
 | [Projetos profissionais](./projetos.md) | Squads, projetos, Gestão de Problemas, integrações e inovação |
-| [Ferramentas e frameworks](./frameworks.md) | Simulador PERT + Monte Carlo, PALAVRA, Pareto, 5 Porquês, BPMN AS IS / TO BE e melhoria contínua |
+| [Ferramentas e frameworks](./frameworks.md) | Simulador PERT + Monte Carlo, PALAVRA, Pareto, 5 Porquês, BPMN AS IS / TO BE, especificação funcional com BDD, ágil em empresa ITIL e melhoria contínua |
 | [Competências e formação](./competencias.md) | Agilidade, projetos, análise de negócios, Gestão de Problemas, ferramentas e formação |
 
 ## Como trabalho
