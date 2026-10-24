@@ -2,9 +2,9 @@
 
 <img width="180" height="180" alt="Foto de Miller Cardoso Barros" src="https://github.com/user-attachments/assets/7b3dabfc-9775-48dc-ad3c-2aca87f9851c" />
 
-### Scrum Master Sênior | Líder de Projetos de TI | Analista de Negócios e Produto | Gestão de Problemas (ITIL)
+### Analista de Negócios Sênior | Analista de Produto | Líder de Projetos de TI | Líder de Problemas de TI (ITIL)
 
-Mais de 18 anos em tecnologia, sendo os últimos 4 como Scrum Master, Líder de Projetos e Analista de Negócios no Grupo Águas do Brasil, em sistemas críticos de operação de campo do saneamento. Faço a ponte entre negócio, tecnologia e fornecedores, da especificação até a entrada em produção.
+Mais de 18 anos em tecnologia, sendo os últimos 4 como Analista de Negócios, Líder de Projetos e Líder de Problemas de TI no Grupo Águas do Brasil, em sistemas críticos de operação de campo do saneamento. Faço a ponte entre negócio, tecnologia e fornecedores, da especificação até a entrada em produção.
 
 **[Site do portfólio](https://millerkbarros.github.io/portfolio-profissional/) · [LinkedIn](https://www.linkedin.com/in/millerbarros) · [Simulador PERT + Monte Carlo](https://millerkbarros.github.io/simulador-pert-monte-carlo/) · [Currículo (PDF)](./curriculo-miller-barros.pdf?v=20261023)**
 
