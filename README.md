@@ -25,7 +25,7 @@ Mais de 18 anos em tecnologia, sendo os últimos 4 como Analista de Negócios, L
 | Página | Conteúdo |
 |---|---|
 | [Projetos profissionais](./projetos.md) | Squads, projetos, Gestão de Problemas, integrações e inovação |
-| [Ferramentas e frameworks](./frameworks.md) | Simulador PERT + Monte Carlo, PALAVRA (autoral), Pareto, 5 Porquês, BPMN AS IS / TO BE, especificação funcional com BDD, ágil em empresa ITIL e melhoria contínua |
+| [Ferramentas e frameworks](./frameworks.md) | Lean Inception (personas, jornadas do usuário e MVP), simulador PERT + Monte Carlo, PALAVRA (autoral), Pareto, 5 Porquês, BPMN AS IS / TO BE, especificação funcional com BDD, ágil em empresa ITIL e melhoria contínua |
 | [Competências e formação](./competencias.md) | Agilidade, projetos, análise de negócios, Gestão de Problemas, ferramentas e formação |
 
 ## Materiais para usar
