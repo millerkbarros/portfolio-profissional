@@ -51,7 +51,7 @@ Evolução do sistema de gestão de ordens de serviço usado pelas equipes de ca
 ## 5. Parcelamento na Religação Automática
 **Líder de Projeto** · set/2026 – out/2026 · cascata, escopo fechado
 
-Novo parâmetro para a ordem de serviço de religação automática já nascer com o parcelamento configurado. Equipe com 2 key users, líder técnico e desenvolvedor. Atuação de ponta a ponta: regras de negócio, especificação funcional, acompanhamento do desenvolvimento, homologação e entrada em produção.
+Antes, nas religações de rede e de ramal, o setor comercial precisava ajustar manualmente o número de parcelas de cada ordem de serviço. Criamos um parâmetro para a ordem de religação já nascer com o parcelamento correto configurado automaticamente, sem ajuste manual. Equipe com 2 key users, líder técnico e desenvolvedor. Atuação de ponta a ponta: regras de negócio, especificação funcional, acompanhamento do desenvolvimento, homologação e entrada em produção.
 
 **Resultado:** 15 de 30 dias úteis usados, desenvolvimento 9 dias úteis antes do previsto, nenhum bug na homologação e deploy realizado 15 dias úteis antes da entrega prevista.
 
