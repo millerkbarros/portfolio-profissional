@@ -185,5 +185,7 @@
     </section>
   </main>
   <footer class="footer"><div class="wrap">© 2026 Miller Cardoso Barros <span><a href="https://github.com/millerkbarros" target="_blank" rel="noreferrer">github.com/millerkbarros</a></span></div></footer>
+<div id="lb" aria-hidden="true" style="display:none;position:fixed;inset:0;z-index:999;background:rgba(10,17,29,.88);align-items:center;justify-content:center;padding:24px;cursor:zoom-out"><button id="lbx" aria-label="Fechar" style="position:absolute;top:14px;right:18px;width:44px;height:44px;border:0;border-radius:50%;background:#fff;color:#0E1B33;font-size:26px;line-height:44px;cursor:pointer">&times;</button><img id="lbi" alt="" style="max-width:96vw;max-height:90vh;border-radius:10px;background:#fff;box-shadow:0 20px 60px #000a;cursor:default"></div>
+<script>(function(){var lb=document.getElementById('lb'),im=document.getElementById('lbi');function op(src,alt){im.src=src;im.alt=alt||'';lb.style.display='flex';document.body.style.overflow='hidden'}function cl(){lb.style.display='none';im.src='';document.body.style.overflow=''}document.querySelectorAll('.project img,.method img').forEach(function(i){i.style.cursor='zoom-in';var a=i.closest('a');(a||i).addEventListener('click',function(e){e.preventDefault();op(i.currentSrc||i.src,i.alt)})});lb.addEventListener('click',function(e){if(e.target!==im)cl()});document.addEventListener('keydown',function(e){if(e.key==='Escape')cl()})})();</script>
 </body>
 </html>
