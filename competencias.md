@@ -4,7 +4,8 @@
 
 ## Agilidade
 - Scrum Master de squads multidisciplinares de até 11 pessoas.
-- Facilitação de Daily, Planning, Review, Retrospectiva, Refinamento e Inception.
+- Facilitação de Daily, Planning, Review, Retrospectiva e Refinamento.
+- Lean Inception completa: visão do produto, É / Não é / Faz / Não faz, objetivos, personas, jornadas do usuário, brainstorming de funcionalidades, revisão técnica, de negócio e de UX, sequenciador e Canvas MVP.
 - Remoção de impedimentos e apoio ao PO na priorização de backlog e roadmap.
 - Scrum, Kanban e modelos híbridos.
 
