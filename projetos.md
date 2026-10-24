@@ -53,7 +53,7 @@ Evolução do sistema de gestão de ordens de serviço usado pelas equipes de ca
 
 Novo parâmetro para a ordem de serviço de religação automática já nascer com o parcelamento configurado. Equipe com 2 key users, líder técnico e desenvolvedor. Atuação de ponta a ponta: regras de negócio, especificação funcional, acompanhamento do desenvolvimento, homologação e entrada em produção.
 
-**Resultado:** 15 de 30 dias úteis usados, desenvolvimento 9 dias úteis antes do previsto, nenhum bug na homologação e deploy agendado 15 dias úteis antes da entrega prevista.
+**Resultado:** 15 de 30 dias úteis usados, desenvolvimento 9 dias úteis antes do previsto, nenhum bug na homologação e deploy realizado 15 dias úteis antes da entrega prevista.
 
 <img src="./bpmn-parcelamento.png" alt="BPMN AS IS e TO BE, versão anonimizada" width="900" />
 
